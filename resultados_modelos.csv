@@ -1,0 +1,7 @@
+Modelo,Accuracy,Precision,Recall,F1-score,CV promedio,CV desv.,Acc. train
+Regresión Logística,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+Árbol de Decisión,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+Random Forest,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+SVM,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+KNN,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+Naive Bayes,0.8333,1.0,0.5,0.6667,0.95,0.1,1.0
