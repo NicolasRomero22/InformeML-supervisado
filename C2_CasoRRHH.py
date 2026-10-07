@@ -3,7 +3,6 @@
 # Predicción de rotación (renuncia) de empleados
 # Algoritmos: Regresión Logística, Árbol de Decisión, Random Forest,
 #             SVM, KNN y Naive Bayes
-# Compatible con Google Colab (copiar cada sección "CELDA" en una celda)
 # ============================================================
 
 # ------------------------------------------------------------
